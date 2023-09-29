@@ -1,13 +1,20 @@
-# speaking
+# Speaking
 Decks for speaking engagements
 
-## How I Discovered my Career Path - Presented virtually at a Virual Career Office Workshop (16th September 2023)
+## How I Discovered my Career Path - Presented virtually at a Virual Career Office Workshop 
+Date: 16th September 2023
+<details>
+  <summary>Session Summary</summary>
+Coming soon...
+</details>
 
 
-## How to Get a Head Start in your Tech Career - Presented virtually at the 2023 Grace Hopper Conference (27th September 2023)
+### How to Get a Head Start in your Tech Career - Presented virtually at the 2023 Grace Hopper Conference 
+Date: 27th September 2023
+Download here - 
 
 <details>
-  <summary>Summary</summary>
+  <summary>Session Summary</summary>
 The session, titled "How to Get a Head Start in your Tech Career," is designed to provide early-career professionals with actionable insights and practical tips on how to succeed in the fast-paced and constantly evolving tech industry.
 
 Maureen has observed that the early stages of one's tech career can be particularly challenging. In this session, Maureen will draw on her extensive experience as an award-winning tech industry professional and a seasoned mentor to many women tech professionals and aspirants to provide attendees with a comprehensive roadmap for building a successful tech career. She will also share practical tips and insights that will help attendees navigate the early stages of their careers.
