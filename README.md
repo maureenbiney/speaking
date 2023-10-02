@@ -1,7 +1,7 @@
 # Speaking
 Decks for speaking engagements
 
-## How I Discovered my Career Path - Presented virtually at a Virual Career Office Workshop 
+### How I Discovered my Career Path - Presented virtually at a Virual Career Office Workshop 
 Date: 16th September 2023
 <details>
   <summary>Session Summary</summary>
